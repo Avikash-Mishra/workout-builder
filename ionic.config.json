@@ -1,0 +1,7 @@
+{
+  "name": "workout-builder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
